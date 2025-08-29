@@ -31,7 +31,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/_Powered_by-Code-00ff00?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117&color=00ff00" alt="Powered by Code"/>
   <img src="https://img.shields.io/badge/_Always-Learning-ff6b6b?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0d1117&color=ff6b6b" alt="Always Learning"/>
-  <img src="https://img.shields.io/badge/_Building-Dreams-ffd700?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117&color=ffd700" alt="Building Software"/>
+  <img src="https://img.shields.io/badge/_Building-Software-ffd700?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117&color=ffd700" alt="Building Software"/>
 </p>
 
 ---
