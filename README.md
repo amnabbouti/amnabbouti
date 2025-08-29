@@ -6,13 +6,8 @@
      | |   | '_ ` _ \        / /\ \ | '_ ` _ \| | '_ \ / _ \
     _| |_  | | | | | |      / ____ \| | | | | | | | | |  __/
    |_____| |_| |_| |_|     /_/    \_\_| |_| |_|_|_| |_|\___|
-
  ```
 <div align="center">
-<p align="center">
-  <em>I live here! on the <strong>internet</strong>!</em>
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Code+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
 </p>
@@ -23,19 +18,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnabbouti&langs_count=8&layout=compact&theme=radical&hide_border=true&card_width=400&title_color=00ff00&text_color=ffffff&bg_color=0d1117&border_radius=15" alt="🔥 Top Languages"/> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amnabbouti&theme=radical&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=ff6b6b&currStreakLabel=00ff00" alt="🔥 GitHub Streak" /> 
 </p> 
+
 ---
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,docker,git,vscode,linux&theme=dark" alt="Tech Stack" />
 </p>
 
 ---
 
-## 🎯 Current Focus
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀_Powered_by-Code-00ff00?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117&color=00ff00" alt="Powered by Code"/>
-  <img src="https://img.shields.io/badge/💡_Always-Learning-ff6b6b?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0d1117&color=ff6b6b" alt="Always Learning"/>
-  <img src="https://img.shields.io/badge/🌟_Building-Dreams-ffd700?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117&color=ffd700" alt="Building Dreams"/>
+  <img src="https://img.shields.io/badge/_Powered_by-Code-00ff00?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117&color=00ff00" alt="Powered by Code"/>
+  <img src="https://img.shields.io/badge/_Always-Learning-ff6b6b?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0d1117&color=ff6b6b" alt="Always Learning"/>
+  <img src="https://img.shields.io/badge/_Building-Dreams-ffd700?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117&color=ffd700" alt="Building Software"/>
 </p>
 
 ---
