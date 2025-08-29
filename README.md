@@ -15,8 +15,8 @@
 ---
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnabbouti&langs_count=8&layout=compact&theme=radical&hide_border=true&card_width=400&title_color=00ff00&text_color=ffffff&bg_color=0d1117&border_radius=15" alt="🔥 Top Languages"/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amnabbouti&theme=radical&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=ff6b6b&currStreakLabel=00ff00" alt="🔥 GitHub Streak" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnabbouti&langs_count=8&layout=compact&theme=radical&hide_border=true&card_width=50%&title_color=00ff00&text_color=ffffff&bg_color=0d1117&border_radius=15" alt="Top Languages"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amnabbouti&theme=radical&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=ff6b6b&currStreakLabel=00ff00" width=50%" alt="GitHub Streak" /> 
 </p> 
 
 ---
