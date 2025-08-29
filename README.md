@@ -9,13 +9,12 @@
  ```
 <div align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Code+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Code+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
 </p>
 
 <p align="center"> 
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnabbouti&langs_count=8&layout=compact&theme=radical&hide_border=true&width=500&title_color=ffffff&text_color=ffffff&bg_color=0d1117&border_radius=15&align="center" alt="Top Languages"/>  -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amnabbouti&theme=radical&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=ff6b6b&currStreakLabel=00ff00"" alt="GitHub Streak" /> 
-</p> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amnabbouti&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=4c78a8&fire=f28c38&currStreakLabel=ffffff" alt="GitHub Streak" /></p> 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,docker,git,vscode,linux&theme=dark" alt="Tech Stack" />
