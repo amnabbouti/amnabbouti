@@ -13,9 +13,9 @@
 </p>
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnabbouti&langs_count=8&layout=compact&theme=radical&hide_border=true&width=500&title_color=ffffff&text_color=ffffff&bg_color=0d1117&border_radius=15&align="center" alt="Top Languages"/> 
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amnabbouti&theme=radical&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=ff6b6b&currStreakLabel=00ff00"" alt="GitHub Streak" /> 
-</p>  -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnabbouti&langs_count=8&layout=compact&theme=radical&hide_border=true&width=500&title_color=ffffff&text_color=ffffff&bg_color=0d1117&border_radius=15&align="center" alt="Top Languages"/>  -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amnabbouti&theme=radical&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=ff6b6b&currStreakLabel=00ff00"" alt="GitHub Streak" /> 
+</p> 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,docker,git,vscode,linux&theme=dark" alt="Tech Stack" />
