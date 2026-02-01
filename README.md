@@ -2,7 +2,7 @@
 <p align="center"> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=amnabbouti&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=4c78a8&fire=f28c38&currStreakLabel=ffffff" alt="GitHub Streak" /></p> 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,js,react,nodejs&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=linux,python,js,react&theme=dark" alt="Tech Stack" />
 </p>
 </div>
 
